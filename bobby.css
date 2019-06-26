@@ -1,0 +1,9 @@
+.gambar{
+	height: 300px;
+	width: 100px;
+}
+img.tengah {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
